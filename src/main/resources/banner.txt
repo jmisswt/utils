@@ -1,0 +1,11 @@
+${AnsiColor.GREEN}      _  _      _  ____  ____  _      _____
+${AnsiColor.GREEN}     / |/ \__/|/ \/ ___\/ ___\/ \  /|/__ __\
+${AnsiColor.GREEN}     | || |\/||| ||    \|    \| |  ||  / \
+${AnsiColor.GREEN}  /\_| || |  ||| |\___ |\___ || |/\||  | |
+${AnsiColor.GREEN}  \____/\_/  \|\_/\____/\____/\_/  \|  \_/
+
+${AnsiColor.BRIGHT_BLUE}
+:: ${spring.application.name}
+:: jiangwentao@whty.com.cn
+:: Running Spring Boot ${spring-boot.version}
+${AnsiColor.DEFAULT}
